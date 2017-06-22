@@ -92,4 +92,43 @@ h1,h2,h3,h4,h5,h6 {
 	padding-bottom: 20px;
 }
 
+/* Section Hot News */
+
+.linea-roja {
+	background-color: #E33139;
+	width: 130px;
+	height: 4px;
+	margin: 0;
+	position: relative;
+	top: 2px;	
+}
+
+.rojo {
+	background-color: #E33139;
+	height: 1px;
+	margin: 0 0 10px 0;
+}
+
+.gris {
+	background-color: #7F7F7F;
+	height: 1px;
+	margin: 10px 0;
+}
+
+.stars {
+	color: #B1B1B1;
+}
+
+.stars .r-s {
+	color: #E62F40;	
+}
+
+.noticias-pop {
+	padding-bottom: 30px;
+}
+
+.may26 h6 {
+	color: #E62F40;
+}
+
 
