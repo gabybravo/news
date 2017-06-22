@@ -166,3 +166,48 @@ h1,h2,h3,h4,h5,h6 {
 	width: 140px;
     height: 23vh;
 }
+
+/* SECTION STAY CONNECTED */
+
+.contenedor-facebook {
+	background-color: #2F4487;
+	width: 100%;
+	padding: 18px;
+	margin-bottom: 10px;
+}
+
+.contenedor-twitter {
+	background-color: #1D8FF0;
+	width: 100%;
+	padding: 18px;	
+	margin-bottom: 10px;	
+}
+
+.contenedor-redes-sociales {
+	background-color: #DE7709;
+	width: 100%;
+	padding: 18px;	
+	margin-bottom: 10px;		
+}
+
+.facebook i,
+.twitter i,
+.rss i {
+	color: white;
+	font-size: 20px;
+}
+
+.conectados p {
+	color:#3F3F3F;
+	font-size: 12px;
+}
+
+.conectados {
+	margin-bottom: 40px;
+}
+
+/* VIMEO */
+
+.skate {
+	margin: 40px 0;
+}
