@@ -136,3 +136,33 @@ h1,h2,h3,h4,h5,h6 {
     height: 20vh;
 }
 
+
+/* Section Life Style */
+
+.p-1 {
+	color: #3F3F3F;
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 24px			
+}
+
+.p-2 {
+	color: #E62F40;
+	font-size: 12px;
+	font-weight: 700;
+}
+
+.p-3 {
+	color: #7F7F7F;
+	font-size: 10px;
+	line-height: 24px	
+}
+
+.texto-estilo-vida {
+	padding: 10px 0;
+}
+
+.mujer3 {
+	width: 140px;
+    height: 23vh;
+}
